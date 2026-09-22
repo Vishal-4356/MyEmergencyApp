@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Emergency Classifier</string>
+    <string name="input_hint">Type or paste speech here…</string>
+    <string name="classify_button">Classify Speech</string>
+    <string name="clear_button">Clear</string>
+    <string name="result_label">Classification Result</string>
+    <string name="history_label">Recent Detections</string>
+    <string name="confidence_label">Confidence</string>
+    <string name="keywords_label">Matched Keywords</string>
+</resources>
